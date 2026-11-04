@@ -1,4 +1,5 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/loren1204/Daisy-s-Garden/badge)](https://scorecard.dev/viewer/?uri=github.com/loren1204/Daisy-s-Garden)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16321/badge)](https://www.bestpractices.dev/projects/16321)
 [![Tests](https://github.com/loren1204/Daisy-s-Garden/actions/workflows/tests.yml/badge.svg)](https://github.com/loren1204/Daisy-s-Garden/actions/workflows/tests.yml)
 
 # Daisy's Garden
